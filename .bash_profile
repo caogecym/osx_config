@@ -1,2 +1,2 @@
 . .bashrc
-test -f ~/.git-completion.bash && . $_
+test -f ~/.git-config.sh && . $_

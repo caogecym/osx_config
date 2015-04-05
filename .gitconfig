@@ -1,0 +1,8 @@
+[user]
+	email = caogecym@gmail.com
+	name = Yuming Cao
+[alias]
+	st = status
+        co = checkout
+        br = branch
+        ci = commit
